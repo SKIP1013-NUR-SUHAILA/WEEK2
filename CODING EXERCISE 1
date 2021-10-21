@@ -1,0 +1,21 @@
+package newLife;
+
+class LifeAtCampus {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("6:30am = wake up");
+		System.out.println("6:35am = praying Subuh");
+		System.out.println("6:50am = shower");
+		System.out.println("7:15am = breakfast");
+		System.out.println("8:30am = online learning");
+		System.out.println("12:00pm = lunch");
+		System.out.println("2:30pm = praying Zuhur");
+		System.out.println("5:30pm = exercise");
+		System.out.println("8:00pm = dinner");
+		System.out.println("11:50pm = sleep");
+	}
+
+		
+}
+© 2021 GitHub, Inc.
