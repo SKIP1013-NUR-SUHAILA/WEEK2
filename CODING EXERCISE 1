@@ -13,6 +13,7 @@ class LifeAtCampus {
 		System.out.println("2:30pm = praying Zuhur");
 		System.out.println("5:30pm = exercise");
 		System.out.println("8:00pm = dinner");
+		System.out.println("9:00pm = programming time");
 		System.out.println("11:50pm = sleep");
 	}
 
